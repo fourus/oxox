@@ -34,7 +34,6 @@ webstack:
       - weibo
       - baidu
       - bilibili
-      - zhihu
 
 content:
   categories:
