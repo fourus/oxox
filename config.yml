@@ -78,6 +78,9 @@ content:
         - name: shenwu
           description: Shenzhen shenwu Sensor Co.,Ltd 
           url: http://www.suenw.com/
+        - name: sanmuron
+          description: Shenzhen sanmuron Sensor Co.,Ltd 
+          url: http://www.sanmuron.com/
     - name: Solid State Relay （SSR）
       sites:
         - name: Aoyi
