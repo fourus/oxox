@@ -69,6 +69,15 @@ content:
         - name: Trihero
           description: Zhejiang Kane Electric Co.,Ltd
           url: https://www.chnssr.com/sensor.html
+        - name: wzsensor
+          description: 稳准传感器科技（东莞）有限公司 
+          url: https://www.chnssr.com/sensor.html
+        - name: Finehood
+          description: Shenzhen Finehood Electronics Co.,Ltd 
+          url: https://www.finehood.com/
+        - name: shenwu
+          description: Shenzhen shenwu Sensor Co.,Ltd 
+          url: http://www.suenw.com/
     - name: Solid State Relay （SSR）
       sites:
         - name: Aoyi
