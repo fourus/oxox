@@ -69,3 +69,15 @@ content:
         - name: Trihero
           description: Zhejiang Kane Electric Co.,Ltd
           url: https://www.chnssr.com/sensor.html
+    - name: Solid State Relay （SSR）
+      sites:
+        - name: Aoyi
+          description: Shanghai Aoyi Electric Co., Ltd
+          url: http://www.aoyidq.com
+        - name: Zonzen
+          description: Zhejiang Zonzen Electric Co., Ltd
+          url: https://www.zonzen.com/solid-state-relay.html
+        - name: MGR (HUIMU)
+          description: YUEQING MGR ELECTRONICS ELECTRICS CO., LIMITED
+          url: https://electronics.huimultd.com/Product/Solid-State-Relay/Electrical-Motor-Controller/
+        
