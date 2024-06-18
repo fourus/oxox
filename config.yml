@@ -84,6 +84,9 @@ content:
         - name: KJT
           description: Nanjing KJT Electric CO.,LTD 
           url: http://www.kjt-sensor.com/
+        - name: Turck
+          description: Turck, Inc. 
+          url: https://www.turck.us/en/productgroup/Sensors/Inductive%20Sensors
     - name: Solid State Relay （SSR）
       sites:
         - name: Aoyi
