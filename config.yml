@@ -81,6 +81,9 @@ content:
         - name: sanmuron
           description: Shenzhen sanmuron Sensor Co.,Ltd 
           url: http://www.sanmuron.com/
+        - name: KJT
+          description: Nanjing KJT Electric CO.,LTD 
+          url: http://www.kjt-sensor.com/
     - name: Solid State Relay （SSR）
       sites:
         - name: Aoyi
