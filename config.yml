@@ -87,6 +87,9 @@ content:
         - name: Turck
           description: Turck, Inc. 
           url: https://www.turck.us/en/productgroup/Sensors/Inductive%20Sensors
+        - name: lorentzzi
+          description: lorentzzi
+          url: https://lorentzzi.com
     - name: Solid State Relay （SSR）
       sites:
         - name: Aoyi
