@@ -104,3 +104,8 @@ content:
         - name: NQQK
           description: YUEQING NQQK ELECTRIC FACTORY
           url: https://www.nqqkelc.com/solid-state-relay
+    - name: Temperature Controllers
+      sites:
+        - name: Taiquan
+          description: Taiquan
+          url: controllermeter.com
