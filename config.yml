@@ -90,6 +90,9 @@ content:
         - name: lorentzzi
           description: lorentzzi
           url: https://lorentzzi.com
+        - name: gtric
+          description: gtric
+          url: https://gtric.en.alibaba.com/
     - name: Solid State Relay （SSR）
       sites:
         - name: Aoyi
