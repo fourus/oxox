@@ -93,6 +93,9 @@ content:
         - name: gtric
           description: gtric
           url: https://gtric.en.alibaba.com/
+        - name: finglai
+          description: finglai
+          url: https://www.finglai.com/
     - name: Solid State Relay （SSR）
       sites:
         - name: Aoyi
